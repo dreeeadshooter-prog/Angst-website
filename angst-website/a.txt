@@ -1,0 +1,95 @@
+h1 align=center style=color#00ff00;Hi 👋, I'm Angst
+h3 align=center style=color#00ff00;Tools Coder from Tunisia
+
+p align=center
+  Welcome to my GitHub profile! Here you'll find my projects and tools.
+p
+
+
+
+
+p align=center
+  img src=httpskomarev.comghpvcusername=phinix-russo&label=Profile%20views&color=brightgreen&style=flat alt=phinix-russo  
+p
+
+p align=center
+  a href=httpsgithub.comryo-magithub-profile-trophy
+    img src=httpsgithub-profile-trophy.vercel.appusername=phinix-russo&row=1&column=6&no-frame=true&theme=darkhub alt=phinix-russo 
+  a
+p
+
+---
+
+- 🛠️ I’m currently working on Discord Tools
+- ⚙️ I’m currently learning C++
+- 🔗 Visit my personal website [Angst Website](httpsphinix-russo.github.iophinix.website)
+- 🔎 Ask me about Coding, Carding, DDoS, Phishing, Logging, Spamming
+- 📌 Reach me on Discord .scxxy
+
+
+---
+
+---
+
+h3 align=left style=color#00ff00;Languages and Toolsh3
+p align=left
+  a href=httpswww.arduino.cc target=_blank rel=noreferrer
+    img src=httpscdn.worldvectorlogo.comlogosarduino-1.svg alt=arduino width=40 height=40 
+  a
+  a href=httpswww.gnu.orgsoftwarebash target=_blank rel=noreferrer
+    img src=httpswww.vectorlogo.zonelogosgnu_bashgnu_bash-icon.svg alt=bash width=40 height=40 
+  a
+  a href=httpscanvasjs.com target=_blank rel=noreferrer
+    img src=httpsraw.githubusercontent.comHardik0307Hardik0307masterassetscanvasjs-charts.svg alt=canvasjs width=40 height=40 
+  a
+  a href=httpsexpressjs.com target=_blank rel=noreferrer
+    img src=httpsraw.githubusercontent.comdeviconsdeviconmastericonsexpressexpress-original-wordmark.svg alt=express width=40 height=40 
+  a
+  a href=httpsdeveloper.mozilla.orgen-USdocsWebJavaScript target=_blank rel=noreferrer
+    img src=httpsraw.githubusercontent.comdeviconsdeviconmastericonsjavascriptjavascript-original.svg alt=javascript width=40 height=40 
+  a
+  a href=httpswww.linux.org target=_blank rel=noreferrer
+    img src=httpsraw.githubusercontent.comdeviconsdeviconmastericonslinuxlinux-original.svg alt=linux width=40 height=40 
+  a
+  a href=httpswww.mongodb.com target=_blank rel=noreferrer
+    img src=httpsraw.githubusercontent.comdeviconsdeviconmastericonsmongodbmongodb-original-wordmark.svg alt=mongodb width=40 height=40 
+  a
+  a href=httpswww.microsoft.comen-ussql-server target=_blank rel=noreferrer
+    img src=httpswww.svgrepo.comshow303229microsoft-sql-server-logo.svg alt=mssql width=40 height=40 
+  a
+  a href=httpswww.mysql.com target=_blank rel=noreferrer
+    img src=httpsraw.githubusercontent.comdeviconsdeviconmastericonsmysqlmysql-original-wordmark.svg alt=mysql width=40 height=40 
+  a
+  a href=httpsnodejs.org target=_blank rel=noreferrer
+    img src=httpsraw.githubusercontent.comdeviconsdeviconmastericonsnodejsnodejs-original-wordmark.svg alt=nodejs width=40 height=40 
+  a
+  a href=httpswww.python.org target=_blank rel=noreferrer
+    img src=httpsraw.githubusercontent.comdeviconsdeviconmastericonspythonpython-original.svg alt=python width=40 height=40 
+  a
+  a href=httpsreactjs.org target=_blank rel=noreferrer
+    img src=httpsraw.githubusercontent.comdeviconsdeviconmastericonsreactreact-original-wordmark.svg alt=react width=40 height=40 
+  a
+  a href=httpswww.sqlite.org target=_blank rel=noreferrer
+    img src=httpswww.vectorlogo.zonelogossqlitesqlite-icon.svg alt=sqlite width=40 height=40 
+  a
+  a href=httpswww.typescriptlang.org target=_blank rel=noreferrer
+    img src=httpsraw.githubusercontent.comdeviconsdeviconmastericonstypescripttypescript-original.svg alt=typescript width=40 height=40 
+  a
+  a href=httpswww.wxwidgets.org target=_blank rel=noreferrer
+    img src=httpsupload.wikimedia.orgwikipediacommonsbbbWxWidgets.svg alt=wx_widgets width=40 height=40 
+  a
+p
+
+---
+
+p
+  img align=left src=httpscamo.githubusercontent.com3784ffa128ec622408a751ceebf495470af82963002211ac9ded7576c582cfa068747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d44484b2d546e267468656d653d746f6b796f6e6967687426686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565266c61796f75743d636f6d70616374 alt=Top Languages 
+p
+
+p&nbsp;
+  img align=center src=httpsgithub-readme-stats.vercel.appapiusername=phinix-russo&show_icons=true&locale=en&theme=dark alt=phinix-russo 
+p
+
+p
+  img align=center src=httpsgithub-readme-streak-stats.herokuapp.comuser=phinix-russo&theme=dark alt=phinix-russo 
+p
